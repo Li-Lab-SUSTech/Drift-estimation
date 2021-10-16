@@ -1,0 +1,2 @@
+LIBRARY "dme_cpu"
+    EXPORTS mexFunction

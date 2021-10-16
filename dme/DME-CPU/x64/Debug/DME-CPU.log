@@ -1,0 +1,10 @@
+﻿  DriftEstimation.cpp
+F:\GitHub\package\drift-estimation-new\dme\DME-CPU\DriftEstimation.cpp(618): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\GitHub\package\drift-estimation-new\dme\DME-CPU\DriftEstimation.cpp(625): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Rendering.cpp
+F:\GitHub\package\drift-estimation-new\dme\DME-CPU\Rendering.cpp(32): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  StringUtils.cpp
+  正在生成代码...
+    正在创建库 ../x64/Debug/dme_cpu.lib 和对象 ../x64/Debug/dme_cpu.exp
+dme_cpu.exp : warning LNK4070: .EXP 中的 /OUT:dme_cpu.dll 指令与输出文件名“..\x64\Debug\\dme_cpu.mexw64”不同；忽略指令
+  DME-CPU.vcxproj -> F:\GitHub\package\drift-estimation-new\dme\DME-CPU\../x64/Debug/dme_cpu.mexw64
