@@ -1,5 +1,8 @@
  "Drift correction in localization microscopy using entropy minimization"
 -----------------------------------------------------------------------------------------
+We recompile the original code with Matlab Mex and use it in Matlab. 
+
+"Drift correction in localization microscopy using entropy minimization"
 
 Article link:
 https://www.biorxiv.org/content/10.1101/2021.03.30.437682v1
@@ -7,7 +10,6 @@ https://www.biorxiv.org/content/10.1101/2021.03.30.437682v1
 Code link:
 https://github.com/qnano/drift-estimation
 
-We recompile the original code with Matlab Mex and use it in Matlab. 
 
 Flags value description
 
