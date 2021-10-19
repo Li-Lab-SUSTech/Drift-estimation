@@ -1,6 +1,5 @@
- "Drift correction in localization microscopy using entropy minimization"
------------------------------------------------------------------------------------------
 We recompile the original code with Matlab Mex and use it in Matlab. 
+-----------------------------------------------------------------------------------------
 
 "Drift correction in localization microscopy using entropy minimization"
 
