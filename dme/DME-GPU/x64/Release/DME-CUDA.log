@@ -53,9 +53,8 @@ F:\GitHub\package\drift-estimation-new\dme\DME-GPU\Rendering.cpp(32): warning C4
     正在创建库 ../x64/Release\dme_cuda.lib 和对象 ../x64/Release\dme_cuda.exp
 dme_cuda.exp : warning LNK4070: .EXP 中的 /OUT:dme_cuda.dll 指令与输出文件名“..\x64\Release\dme_cuda.mexw64”不同；忽略指令
   正在生成代码
-  160 of 164 functions (97.6%) were compiled, the rest were copied from previous compilation.
-    2 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB not found, fall back to full compilation.
+  All 164 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   已完成代码的生成
 dme_cuda.exp : warning LNK4070: .EXP 中的 /OUT:dme_cuda.dll 指令与输出文件名“..\x64\Release\dme_cuda.mexw64”不同；忽略指令
   DME-CUDA.vcxproj -> F:\GitHub\package\drift-estimation-new\dme\DME-GPU\../x64/Release\dme_cuda.mexw64
